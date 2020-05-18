@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c89eebcd-ba4b-43c5-96f6-9cc1491f67f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/STHomeWork01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/STHomeWork01/SMTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/STHomeWork01/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/STHomeWork01/StudentManager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SMTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StudentManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SMTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SMTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StudentManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StudentManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +33,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Book" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -78,6 +72,14 @@
       <workItem from="1588035134909" duration="435000" />
       <workItem from="1588035662195" duration="5420000" />
       <workItem from="1588125595869" duration="10060000" />
+      <workItem from="1588147484415" duration="665000" />
+      <workItem from="1588207231393" duration="1471000" />
+      <workItem from="1588209688877" duration="1231000" />
+      <workItem from="1588321984327" duration="622000" />
+      <workItem from="1588323122157" duration="1816000" />
+      <workItem from="1588470920677" duration="30000" />
+      <workItem from="1589765761861" duration="1970000" />
+      <workItem from="1589781348569" duration="3892000" />
     </task>
     <servers />
   </component>
@@ -93,34 +95,34 @@
       <screen x="0" y="0" width="1549" height="831" />
     </state>
     <state x="940" y="303" width="413" height="239" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1549.831@0.0.1549.831" timestamp="1588037611129" />
-    <state x="942" y="174" key="FileChooserDialogImpl" timestamp="1588126382140">
+    <state x="942" y="174" key="FileChooserDialogImpl" timestamp="1588470948078">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state x="942" y="174" key="FileChooserDialogImpl/0.0.1549.831@0.0.1549.831" timestamp="1588126382140" />
-    <state width="701" height="703" key="GridCell.Tab.0.bottom" timestamp="1588138460151">
+    <state x="942" y="174" key="FileChooserDialogImpl/0.0.1549.831@0.0.1549.831" timestamp="1588470948078" />
+    <state width="205" height="696" key="GridCell.Tab.0.bottom" timestamp="1589800742361">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="701" height="703" key="GridCell.Tab.0.bottom/0.0.1549.831@0.0.1549.831" timestamp="1588138460151" />
-    <state width="701" height="703" key="GridCell.Tab.0.center" timestamp="1588138460150">
+    <state width="205" height="696" key="GridCell.Tab.0.bottom/0.0.1549.831@0.0.1549.831" timestamp="1589800742361" />
+    <state width="205" height="696" key="GridCell.Tab.0.center" timestamp="1589800742361">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="701" height="703" key="GridCell.Tab.0.center/0.0.1549.831@0.0.1549.831" timestamp="1588138460150" />
-    <state width="701" height="703" key="GridCell.Tab.0.left" timestamp="1588138460150">
+    <state width="205" height="696" key="GridCell.Tab.0.center/0.0.1549.831@0.0.1549.831" timestamp="1589800742361" />
+    <state width="205" height="696" key="GridCell.Tab.0.left" timestamp="1589800742361">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="701" height="703" key="GridCell.Tab.0.left/0.0.1549.831@0.0.1549.831" timestamp="1588138460150" />
-    <state width="701" height="703" key="GridCell.Tab.0.right" timestamp="1588138460150">
+    <state width="205" height="696" key="GridCell.Tab.0.left/0.0.1549.831@0.0.1549.831" timestamp="1589800742361" />
+    <state width="205" height="696" key="GridCell.Tab.0.right" timestamp="1589800742361">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state width="701" height="703" key="GridCell.Tab.0.right/0.0.1549.831@0.0.1549.831" timestamp="1588138460150" />
+    <state width="205" height="696" key="GridCell.Tab.0.right/0.0.1549.831@0.0.1549.831" timestamp="1589800742361" />
     <state x="568" y="61" key="SettingsEditor" timestamp="1588036390357">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
     <state x="568" y="61" key="SettingsEditor/0.0.1549.831@0.0.1549.831" timestamp="1588036390357" />
-    <state x="81" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1588125595753">
+    <state x="768" y="0" width="787" height="837" key="com.intellij.ide.util.TipDialog" timestamp="1589781351488">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
-    <state x="81" y="243" key="com.intellij.ide.util.TipDialog/0.0.1549.831@0.0.1549.831" timestamp="1588125595753" />
+    <state x="768" y="0" width="787" height="837" key="com.intellij.ide.util.TipDialog/0.0.1549.831@0.0.1549.831" timestamp="1589781351488" />
     <state x="0" y="28" key="new project wizard" timestamp="1588035571690">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
